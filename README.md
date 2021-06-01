@@ -4,13 +4,13 @@ Sou estudante de Design, com foco em Desenvolvimento de Web. Meu foco por enquan
 
 **Meus estudos**
 - Maior parte dos meus repositórios são testes de ideias que vou tendo de tempos em tempos 😅
-- No momento, meu foco é aprender p5.js para representações gráficas ✌
+- No momento, meu desejo é aprender p5.js para representações gráficas ✌
 - O que estudo normalmente:
     - HTML
     - CSS
     - SASS
     - JavaScript
-    - PHP (bem pouco, na verdade)
+    - PHP (apenas para otimização do HTML)
     - Processing
     - E, bem recentemente, p5.js
 
