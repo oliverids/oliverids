@@ -18,4 +18,4 @@ Sou estudante de Design, com foco em Desenvolvimento de Web. Meu foco por enquan
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverids&langs_count=8&theme=tokyonight)]()
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/idsoliver/)
-![Gmail Badge](https://img.shields.io/badge/-oliver.isabela2303@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oliver.isabela2303@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/-oliveira.idsoliver23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oliveira.idsoliver23@gmail.com)
