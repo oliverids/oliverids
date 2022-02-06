@@ -1,5 +1,5 @@
 ## Olá, eu sou Isabela Oliveira!
-<img align="right" src="img/oliverids.png" width="240">
+<img align="right" src="img/oliverids.png" width="260">
 
 📚 Estudante de Design na Universidade Federal do Espírito Santo
 💻 Estagiária de Desenvolvimento Front-end e UI & UX Designer no Laboratório de Design Instrucional (SEAD/UFES)
@@ -17,6 +17,7 @@
 &nbsp;
 
 Grande maioria dos meus repositórios são estudos e testes de projetos pessoais. Uma parte deles são desafios da plataforma [FrontEnd Mentor](https://www.frontendmentor.io/profile/oliverids). Fique à vontade para olhar e mandar sugestões! 😄
+
 &nbsp;
 
 <div align="center">
