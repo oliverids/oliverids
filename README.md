@@ -37,13 +37,13 @@ Grande maioria dos meus repositórios são estudos e testes de projetos pessoais
     <img align="center" src="https://img.shields.io/badge/LinkedIn-23282E?style=for-the-badge&logo=linkedin&logoColor=52ade9">
 </a>
 
-<a href="mailto:idso.oliveirasilva@gmail.com">
+<a href="mailto:isabela@webicos.com.br">
     <img align="center" src="https://img.shields.io/badge/Gmail-23282E?style=for-the-badge&logo=gmail&logoColor=52ade9"/>
 </a>
 
-<!-- <a href="https://oliverids.github.io/my-portfolio/">
+<a href="http://isabela.webicos.com.br/">
     <img align="center" src=""/>
-</a> -->
+</a>
 </div>
 </div>
 
