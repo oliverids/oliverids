@@ -2,20 +2,22 @@
 <!-- <img align="right" src="img/oliverids.png" width="260"> -->
 <a href="https://app.daily.dev/oliverids"><img src="https://api.daily.dev/devcards/513fd19ee3f14edb9ccf6a2a2a71960b.png?r=le9" width="260" alt="Isabela Oliveira's Dev Card" align="right"/></a>
 
-📚 Estudante de Design na Universidade Federal do Espírito Santo
-💻 Estagiária de Desenvolvimento Front-end e UI & UX Designer no Laboratório de Design Instrucional (SEAD/UFES)
+<p>📚 Estudante de Design pela Universidade Federal do Espírito Santo</p>
+<p>📚 Estudante de Análise e Desenvolvimento de Sistemas pela XP Educação</p>
+<p>💻 Estagiária de Desenvolvimento Front-end e UI & UX Designer no laboratório for/ma - UFES</p>
 
 ### Linguagens e Tecnologias
 - **Trabalho com:** HTML, SASS, CSS, JavaScript e PHP (apenas no front-end) e desenvolvimento de PWAs
-- **Estou estudando:** Node.js e Processing
+- **Estou estudando:** Node.js e React
 - **Tenho interesse em:** Python com foco no Back-end
 
-<div>
+<!-- <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
-&nbsp;
+-->
+
 
 Grande maioria dos meus repositórios são estudos e testes de projetos pessoais. Uma parte deles são desafios da plataforma [FrontEnd Mentor](https://www.frontendmentor.io/profile/oliverids). Fique à vontade para olhar e mandar sugestões! 😄
 
