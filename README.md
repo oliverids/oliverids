@@ -1,6 +1,6 @@
 ## Olá, eu sou Isabela Oliveira!
 <!-- <img align="right" src="img/oliverids.png" width="260"> -->
-<a href="https://app.daily.dev/oliverids"><img src="https://api.daily.dev/devcards/513fd19ee3f14edb9ccf6a2a2a71960b.png?r=le9" width="260" alt="Isabela Oliveira's Dev Card" align="right"/></a>
+<!-- <a href="https://app.daily.dev/oliverids"><img src="https://api.daily.dev/devcards/513fd19ee3f14edb9ccf6a2a2a71960b.png?r=le9" width="260" alt="Isabela Oliveira's Dev Card" align="right"/></a> -->
 
 <p>📚 Estudante de Design pela Universidade Federal do Espírito Santo</p>
 <p>📚 Estudante de Análise e Desenvolvimento de Sistemas pela XP Educação</p>
@@ -20,6 +20,8 @@
 
 
 Grande maioria dos meus repositórios são estudos e testes de projetos pessoais. Uma parte deles são desafios da plataforma [FrontEnd Mentor](https://www.frontendmentor.io/profile/oliverids). Fique à vontade para olhar e mandar sugestões! 😄
+
+Eu também escrevi um <a href="https://medium.com/@oliverids/desenvolvimento-de-pwas-c82e3f6e3f28">artigo sobre desenvolvimento de Aplicativos de Web Progressivos (PWAs)</a>! Dê uma olhada!
 
 &nbsp;
 
