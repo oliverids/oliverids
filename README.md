@@ -9,7 +9,7 @@
 ### Linguagens e Tecnologias
 - **Trabalho com:** HTML, SASS, CSS, JavaScript e PHP (apenas no front-end) e desenvolvimento de PWAs
 - **Estou estudando:** Node.js e React
-- **Tenho interesse em:** Python com foco no Back-end
+- **Tenho interesse em:** Python
 
 <!-- <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -41,11 +41,11 @@ Eu também escrevi um <a href="https://medium.com/@oliverids/desenvolvimento-de-
     <img align="center" src="https://img.shields.io/badge/LinkedIn-23282E?style=for-the-badge&logo=linkedin&logoColor=52ade9">
 </a>
 
-<a href="mailto:isabela@webicos.com.br">
+<a href="mailto:oliver.isabela2303@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-23282E?style=for-the-badge&logo=gmail&logoColor=52ade9"/>
 </a>
 
-<a href="http://isabela.webicos.com.br/">
+<a href="https://portf-isabela-oliveira.herokuapp.com/">
     <img align="center" src="https://img.shields.io/badge/website-23282E?style=for-the-badge&logo=About.me&logoColor=52ade9"/>
 </a>
 </div>
