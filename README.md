@@ -25,13 +25,14 @@ Eu também escrevi um <a href="https://medium.com/@oliverids/desenvolvimento-de-
 
 &nbsp;
 
+<!--
 <div align="center">
 <a href="https://github.com/oliverids">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=oliverids&show_icons=true&title_color=52ade9&icon_color=2cbf6d&text_color=9f9f9f&bg_color=23282E"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverids&layout=compact&show_icons=true&title_color=52ade9&icon_color=2cbf6d&text_color=9f9f9f&bg_color=23282E"/>
 </a>
 </div>
-
+-->
 <h3 align="center"> Entre em contato!</h3>
 
 <div align="center">
