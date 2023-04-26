@@ -1,8 +1,8 @@
 ## Olá, eu sou Isabela Oliveira!
 
-<p>📚 Estudante de Design pela Universidade Federal do Espírito Santo</p>
-<p>📚 Estudante de Análise e Desenvolvimento de Sistemas pela XP Educação</p>
+<p>📚 Cursando Bacharel em <strong>Design</strong> pela UFES e Tecnólogo em <strong>Análise e Desenvolvimento de Sistemas</strong> pela XP Educação.</p>
 <p>💻 Estagiária de Desenvolvimento Front-end e UI & UX Designer no laboratório Forma - UFES</p>
+<p>💻 Bolsista Pesquisadora em Tecnologia Digital e Inovação na Fiotec</p>
 
 ### Linguagens e Tecnologias
 - **Trabalho com:** HTML, SASS, CSS, JavaScript, React, Next.js e PWAs
