@@ -5,7 +5,7 @@
 <p>💻 Estagiária de Desenvolvimento Front-end e UI & UX Designer no laboratório Forma - UFES</p>
 
 ### Linguagens e Tecnologias
-- **Trabalho com:** HTML, SASS, CSS, JavaScript, React, Next.js, Node.js e PWAs
+- **Trabalho com:** HTML, SASS, CSS, JavaScript, React, Next.js e PWAs
 - **Estou estudando:** Node.js e PHP
 
 
