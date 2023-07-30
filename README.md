@@ -1,7 +1,8 @@
 ## Olá, eu sou Isabela Oliveira!
 
-<p>📚 Cursando Bacharel em <strong>Design</strong> pela UFES e Tecnólogo em <strong>Análise e Desenvolvimento de Sistemas</strong> pela XP Educação.</p>
-<p>💻 Estagiária de Desenvolvimento Front-end e UI & UX Designer no laboratório Forma - UFES</p>
+<p>🎓 Bacharel em Design pela UFES </p>
+<p>📚 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela XP Educação.</p>
+<p>💻 Estagiária de Desenvolvimento Front-end e UI & UX Designer no Laboratório Forma - UFES</p>
 <p>💻 Bolsista Pesquisadora em Tecnologia Digital e Inovação na Fiotec</p>
 
 ### Linguagens e Tecnologias
@@ -24,11 +25,11 @@ Eu também escrevi um <a href="https://medium.com/@oliverids/desenvolvimento-de-
     <img align="center" src="https://img.shields.io/badge/LinkedIn-23282E?style=for-the-badge&logo=linkedin&logoColor=52ade9">
 </a>
 
-<a href="mailto:oliver.isabela2303@gmail.com">
+<a href="mailto:isabela@webicos.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-23282E?style=for-the-badge&logo=gmail&logoColor=52ade9"/>
 </a>
 
-<a href="https://portf-isabela-oliveira.herokuapp.com/">
+<a href="http://isabelaoliveira.com.br/">
     <img align="center" src="https://img.shields.io/badge/website-23282E?style=for-the-badge&logo=About.me&logoColor=52ade9"/>
 </a>
 </div>
