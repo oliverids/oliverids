@@ -2,8 +2,8 @@
 
 <p>🎓 Bacharel em Design pela UFES </p>
 <p>📚 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela XP Educação.</p>
-<p>💻 Estagiária de Desenvolvimento Front-end e UI & UX Designer no Laboratório Forma - UFES</p>
-<p>💻 Bolsista Pesquisadora em Tecnologia Digital e Inovação na Fiotec</p>
+<p>💻 Desenvolvedora Front-end Júnior na iOBEE - ES</p>
+<p>💻 Bolsista Pesquisadora de Desenvolvimento Front-end e UI & UX Designer no Laboratório Forma - UFES</p>
 
 ### Linguagens e Tecnologias
 - **Trabalho com:** HTML, SASS, CSS, JavaScript, React, Next.js e PWAs
