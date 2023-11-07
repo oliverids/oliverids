@@ -1,13 +1,13 @@
 ## Olá, eu sou Isabela Oliveira!
 
 <p>🎓 Bacharel em Design pela UFES </p>
-<p>📚 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela XP Educação.</p>
-<p>💻 Desenvolvedora Front-end Júnior na iOBEE - ES</p>
+<p>💻 Desenvolvedora Web Designer na iOBEE - ES</p>
 <p>💻 Bolsista Pesquisadora de Desenvolvimento Front-end e UI & UX Designer no Laboratório Forma - UFES</p>
+<p>💻 Desenvolvedora Front-end Freelancer</p>
 
 ### Linguagens e Tecnologias
-- **Trabalho com:** HTML, SASS, CSS, JavaScript, React, Next.js e PWAs
-- **Estou estudando:** Node.js e PHP
+- **Trabalho com:** HTML, SASS, CSS, JavaScript, React, Next.js, PWAs, Wordpress e Elementor
+<!-- - **Estou estudando:** Node.js e PHP -->
 
 
 Grande maioria dos meus repositórios são estudos e testes de projetos pessoais. Uma parte deles são desafios da plataforma [FrontEnd Mentor](https://www.frontendmentor.io/profile/oliverids). Fique à vontade para olhar e mandar sugestões! 😄
