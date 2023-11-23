@@ -1,7 +1,7 @@
 ## Olá, eu sou Isabela Oliveira!
 
 <p>🎓 Bacharel em Design pela UFES </p>
-<p>💻 Desenvolvedora Web Designer na iOBEE - ES</p>
+<p>💻 Desenvolvedora Front-end I na Turbo Partners</p>
 <p>💻 Bolsista Pesquisadora de Desenvolvimento Front-end e UI & UX Designer no Laboratório Forma - UFES</p>
 <p>💻 Desenvolvedora Front-end Freelancer</p>
 
