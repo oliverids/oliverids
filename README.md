@@ -15,8 +15,8 @@ Processos: `Arquitetura de Informação`, `UX Design`, `UX Writing`, `UI Design`
 
 **Gerente de Projetos e Líder Técnico** \
 [**For/ma**](https://forma.ufes.br/) \
-Linguagens e Tecnologias: `HTML`, `CSS`, `SASS`, `JavaScript ES6`, `PHP`,`TypeScript`, `Node`\
 Processos: `Arquitetura de Informação`, `UX Design`, `UX Writing`, `UI Design`, `Design System`, `Figma`\
+Linguagens e Tecnologias: `HTML`, `CSS`, `SASS`, `JavaScript ES6`, `PHP`,`TypeScript`, `Node`\
 <br/>
 
 > [!IMPORTANT]  
@@ -28,16 +28,25 @@ Processos: `Arquitetura de Informação`, `UX Design`, `UX Writing`, `UI Design`
 <div align="left">
 <div>
 <a href="https://www.linkedin.com/in/isabela-oliveira23/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-23282E?style=for-the-badge&logo=linkedin&logoColor=ffffff">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff">
 </a>
 
 <a href="mailto:isabela@webicos.com.br">
-    <img align="center" src="https://img.shields.io/badge/Gmail-23282E?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+    <img align="center" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a>
 
 <a href="http://isabelaoliveira.com.br/">
-    <img align="center" src="https://img.shields.io/badge/website-23282E?style=for-the-badge&logo=About.me&logoColor=ffffff"/>
+    <img align="center" src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=ffffff"/>
 </a>
+
+<a href="https://www.behance.net/isabelaoliveira23">
+    <img align="center" src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+<a href="https://lattes.cnpq.br/6511840418020329">
+    <img align="center" src="https://img.shields.io/badge/lattes-000000?style=for-the-badge&logo=readme&logoColor=white"/>
+</a>
+
 </div>
 </div>
 
