@@ -1,20 +1,13 @@
 ## Olá, eu sou Isabela Oliveira!
 
 <p>🎓 Bacharel em Design - UFES </p>
-<p>💻 UX/UI Designer e Desenvolvedora Web</p>
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="leds.png"/>](https://www.leds.ifes.edu.br/)
-
-**Designer Líder** \
-[**LEDS**](https://www.leds.ifes.edu.br/) \
-Processos: `Arquitetura de Informação`, `UX Design`, `UX Writing`, `UI Design`, `Design System`, `Figma`\
+<p>🎓 Especialista em Design Thinking - UNIMINAS EAD </p>
+<p>💻 Product Designer e Desenvolvedora Front-end</p>
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="forma.png"/>](https://www.leds.ifes.edu.br/)
 
-**Gerente de Projetos e Líder Técnico** \
-[**For/ma**](https://forma.ufes.br/) \
+**Gerente de Projetos e Líder Técnico** — [Laboratório For/ma](https://forma.ufes.br/) \
 Processos: `Arquitetura de Informação`, `UX Design`, `UX Writing`, `UI Design`, `Design System`, `Figma`\
 Linguagens e Tecnologias: `HTML`, `CSS`, `SASS`, `JavaScript ES6`, `PHP`,`TypeScript`, `Node`\
 <br/>
