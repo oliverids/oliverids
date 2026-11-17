@@ -1,43 +1,31 @@
 ## Olá, eu sou Isabela Oliveira!
 
-<p>🎓 Bacharel em Design - UFES </p>
-<p>🎓 Especialista em Design Thinking - UNIMINAS EAD </p>
-<p>💻 Product Designer e Desenvolvedora Front-end</p>
+<p>🎓 Bacharel em Design pela UFES e Especialista em Design Thinking pela UNIMINAS EAD </p>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="forma.png"/>](https://www.leds.ifes.edu.br/)
 
-**Gerente de Projetos e Líder Técnico** — [Laboratório For/ma](https://forma.ufes.br/) \
-Processos: `Arquitetura de Informação`, `UX Design`, `UX Writing`, `UI Design`, `Design System`, `Figma`\
-Linguagens e Tecnologias: `HTML`, `CSS`, `SASS`, `JavaScript ES6`, `PHP`,`TypeScript`, `Node`\
+**Designer de Produto Pleno** — [AEVO](https://aevo.com.br/) \
+Processos: `Arquitetura de Informação`, `UX Design`, `UX Writing`, `UI Design`, `Design System`, `Figma`, `Inteligência Artificial`, `Agentes`
+<br/>
 <br/>
 
-> [!IMPORTANT]  
-> Também tenho um caso de estudo sobre <a href="https://medium.com/@oliverids/desenvolvimento-de-pwas-c82e3f6e3f28">Aplicativos de Web Progressivos (PWAs)</a>.
 
-<br/>
-
-#### Contato
 <div align="left">
 <div>
 <a href="https://www.linkedin.com/in/isabela-oliveira23/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff">
-</a>
-
-<a href="mailto:isabela@webicos.com.br">
-    <img align="center" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-f2722a?style=for-the-badge&logoColor=000000">
 </a>
 
 <a href="http://isabelaoliveira.com.br/">
-    <img align="center" src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=ffffff"/>
+    <img align="center" src="https://img.shields.io/badge/portfolio-f2722a?style=for-the-badge&logoColor=000000"/>
 </a>
 
 <a href="https://www.behance.net/isabelaoliveira23">
-    <img align="center" src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Behance-f2722a?style=for-the-badge&logoColor=000000"/>
 </a>
 
 <a href="https://lattes.cnpq.br/6511840418020329">
-    <img align="center" src="https://img.shields.io/badge/lattes-000000?style=for-the-badge&logo=readme&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/lattes-f2722a?style=for-the-badge&logoColor=000000"/>
 </a>
 
 </div>
